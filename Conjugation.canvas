@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"b2277390a428c573","x":-220,"y":-391,"width":640,"height":71,"type":"text","text":"https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html"},
+		{"id":"7b636cf845180dcf","x":-220,"y":-300,"width":290,"height":71,"type":"text","text":"Ser\nSou, és, é, somos, sois, são"}
+	],
+	"edges":[]
+}
