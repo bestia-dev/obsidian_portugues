@@ -11,8 +11,15 @@
             "id": "aedd40c2361af909",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Conjugation.canvas",
+                "viewState": {
+                  "x": 84.55717623676591,
+                  "y": -116.83544132342753,
+                  "zoom": 0.1102997889553282
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Conjugation.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Conjugation.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Conjugation.canvas"
+          }
         }
       }
     ],

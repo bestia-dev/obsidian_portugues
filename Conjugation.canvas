@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"b2277390a428c573","x":-220,"y":-391,"width":640,"height":71,"type":"text","text":"https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html"},
-		{"id":"7b636cf845180dcf","x":-220,"y":-300,"width":290,"height":71,"type":"text","text":"Ser\nSou, és, é, somos, sois, são"}
+		{"id":"b2277390a428c573","type":"text","text":"https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html","x":-220,"y":-391,"width":640,"height":71},
+		{"id":"7b636cf845180dcf","type":"text","text":"Ser\nSou, és, é, somos, sois, são","x":-220,"y":-300,"width":290,"height":71},
+		{"id":"e7a9ac0f5671e35f","type":"text","text":"Ter\nTenho, tens, tem, temos, tendes, têm","x":-220,"y":-200,"width":380,"height":80},
+		{"id":"996c5b2371033a9f","type":"file","file":"brasil flag.jpg","x":-220,"y":-560,"width":190,"height":133}
 	],
 	"edges":[]
 }
