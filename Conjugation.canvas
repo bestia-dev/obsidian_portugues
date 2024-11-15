@@ -1,9 +1,11 @@
 {
 	"nodes":[
 		{"id":"b2277390a428c573","type":"text","text":"https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html","x":-220,"y":-391,"width":640,"height":71},
-		{"id":"7b636cf845180dcf","type":"text","text":"Ser\nSou, és, é, somos, sois, são","x":-220,"y":-300,"width":290,"height":71},
-		{"id":"e7a9ac0f5671e35f","type":"text","text":"Ter\nTenho, tens, tem, temos, tendes, têm","x":-220,"y":-200,"width":380,"height":80},
-		{"id":"996c5b2371033a9f","type":"file","file":"brasil flag.jpg","x":-220,"y":-560,"width":190,"height":133}
+		{"id":"7b636cf845180dcf","type":"text","text":"Ser - biti\nSou, és, é, somos, sois, são","x":-220,"y":-300,"width":290,"height":71},
+		{"id":"e7a9ac0f5671e35f","type":"text","text":"Ter - imeti\nTenho, tens, tem, temos, tendes, têm","x":-220,"y":-200,"width":380,"height":80},
+		{"id":"996c5b2371033a9f","type":"file","file":"brasil flag.jpg","x":-220,"y":-560,"width":190,"height":133},
+		{"id":"9f53b0140e978195","x":200,"y":-300,"width":340,"height":1200,"type":"text","text":"0_DICTIONARY EASY VERBS\naceitar - accept\najudar - help\namar - love\nandar - go\nbeber - drink\ncair - fall\ncaminhar - walk\nchegar - arrive\ncolocar - stand, put on clothes\ncomer - eat\nconhecer - know\ncorrer - run\ncuidar - take care\ndecidir - decide\ndesculpar - excuse\ndizer - speak\ndormir - sleep\nencontrar - find\nentender - understand\nerrar - making mistakes\nescrever - write\nesperar - wait\nfazer - make\nganhar - win, earn\ngostar - like\njogar - play\nlavar - wash\nler - read\nmostrar - show\nouvir - listen\npagar - pay\nparar - stop\npartir - break\npedir - ask, order\nperder - loose\nperguntar - ask\nquerer - want\nsaber - know\nsalvar - save\nseguir - follow\nterminar - finish\ntomar - drink\ntrabalhar - work\nvender - sell\nver - watch, see\nvoltar - return\n"},
+		{"id":"bfa2cf5c625c56b1","x":-220,"y":-100,"width":250,"height":318,"type":"text","text":"HARD WORDS\nachar - think, find\nesquecer - forget\nmedir - measure\nmudar - change\ntrazer - get, wear\npegar - get, pick\nvir - priti (venire)"}
 	],
 	"edges":[]
 }

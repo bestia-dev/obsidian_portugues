@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "e7febc6f81a56825",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b9719fb75eada5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "309fc4a2e0f3b269",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Conjugation.canvas",
+                "viewState": {
+                  "x": 191.46823529411762,
+                  "y": 143.14671812969712,
+                  "zoom": -0.05004068249959546
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Conjugation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b994a2ee4bd09f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "860c22fe26cdffe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb8c105bc49b7f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f61a439ce67cca9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f2e3375d414ee675",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "36e8a2bfc1b31c37",
+    "type": "split",
+    "children": [
+      {
+        "id": "43069a2706389aca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4e7ad67f44b003",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conjugation.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Conjugation"
+            }
+          },
+          {
+            "id": "e578e33d6395e8ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conjugation.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Conjugation"
+            }
+          },
+          {
+            "id": "5147470c95d98354",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20edb9f9fcb578b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conjugation.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Conjugation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "309fc4a2e0f3b269",
+  "lastOpenFiles": []
+}
