@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"996c5b2371033a9f","type":"file","file":"brasil flag.jpg","x":-220,"y":-560,"width":190,"height":133},
+		{"id":"f64dd9bdd5ff2759","type":"file","file":"Easy verbs.md","x":220,"y":-80,"width":340,"height":320},
+		{"id":"42aa99f8a72ab4aa","type":"file","file":"Perguntas.md","x":580,"y":-300,"width":250,"height":180},
+		{"id":"d889bf06e26fa203","type":"file","file":"Preposições, contrações.md","x":580,"y":-80,"width":250,"height":640},
+		{"id":"dbaff2896632d721","type":"file","file":"Words.md","x":220,"y":280,"width":340,"height":180},
+		{"id":"28eccf113d06ec90","type":"file","file":"conjugation.md","x":-220,"y":-300,"width":380,"height":420},
+		{"id":"daa0c92a4003c94f","type":"file","file":"Hard words.md","x":220,"y":-427,"width":340,"height":180}
+	],
+	"edges":[]
+}

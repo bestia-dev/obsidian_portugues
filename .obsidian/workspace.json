@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b9719fb75eada5",
+        "id": "c8e55cde6d2b1b11",
         "type": "tabs",
         "children": [
           {
-            "id": "309fc4a2e0f3b269",
+            "id": "de2120072bfc7360",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Conjugation.canvas",
+                "file": "0 Português.canvas",
                 "viewState": {
-                  "x": 191.46823529411762,
-                  "y": 143.14671812969712,
-                  "zoom": -0.05004068249959546
+                  "x": 305,
+                  "y": 64.01649367987642,
+                  "zoom": -1.2142184898907478
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Conjugation"
+              "title": "0 Português"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conjugation.canvas",
+                "file": "0 Português.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conjugation"
+              "title": "Backlinks for 0 Português"
             }
           },
           {
@@ -142,13 +142,94 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conjugation.canvas"
+                "file": "0 Português.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Conjugation"
+              "title": "Outline of 0 Português"
+            }
+          },
+          {
+            "id": "1cad36fd645d12b0",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "2f0fdbf93c85a9ed",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "a741ca9c81df27eb",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "65192b112af2030f",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "5dc1f38ff081ca5b",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "0961b5574f2be67a",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "cc20760094128975",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "ea02fa5f918d1f53",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -158,13 +239,30 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "309fc4a2e0f3b269",
-  "lastOpenFiles": []
+  "active": "de2120072bfc7360",
+  "lastOpenFiles": [
+    "Numbers.md",
+    "Hard words.md",
+    "Easy verbs.md",
+    "conjugation.md",
+    "0 Português.canvas",
+    "Preposições, contrações.md",
+    "Untitled.canvas",
+    "Perguntas.md",
+    "Words.md",
+    "README.md",
+    "prices, shopping.md",
+    "Ordinal numbers.md",
+    "brasil flag.jpg",
+    "2024-11-15.md"
+  ]
 }
