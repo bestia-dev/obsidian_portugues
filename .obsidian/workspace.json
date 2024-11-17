@@ -8,23 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de2120072bfc7360",
+            "id": "a6009c5741446e22",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "0 Português.canvas",
                 "viewState": {
                   "x": 305,
-                  "y": 64.01649367987642,
+                  "y": 100.12836190955035,
                   "zoom": -1.2142184898907478
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "0 Português"
             }
+          },
+          {
+            "id": "de2120072bfc7360",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phrases.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Phrases"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "conv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +95,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,17 +264,28 @@
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "terminal:Open terminal": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "de2120072bfc7360",
+  "active": "f61a439ce67cca9a",
   "lastOpenFiles": [
-    "Numbers.md",
-    "Hard words.md",
-    "Easy verbs.md",
     "conjugation.md",
+    "Phrases.md",
     "0 Português.canvas",
+    "Hard words.md",
+    "Win11 keyboard and diacritics.md",
+    "MSKLC keyboard layout/LucKey/wow64/Layout01.dll",
+    "MSKLC keyboard layout/LucKey/ia64/Layout01.dll",
+    "MSKLC keyboard layout/LucKey/i386/Layout01.dll",
+    "MSKLC keyboard layout/LucKey/amd64/Layout01.dll",
+    "MSKLC keyboard layout/LucKey/Layout01_amd64.msi",
+    "MSKLC keyboard layout/LucKey/setup.exe",
+    "MSKLC keyboard layout/LucKey/wow64",
+    "MSKLC keyboard layout/LucKey/Layout01_ia64.msi",
+    "MSKLC keyboard layout/LucKey/Layout01_i386.msi",
+    "MSKLC keyboard layout/LucKey/ia64",
+    "Numbers.md",
+    "Easy verbs.md",
     "Preposições, contrações.md",
     "Untitled.canvas",
     "Perguntas.md",

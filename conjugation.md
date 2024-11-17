@@ -8,17 +8,20 @@ sou, és, é, somos, sois, são
 TER - imeti, tenere
 tenho, tens, tem, temos, tendes, têm
 
-Ending: -ar
+Ending: -AR
 PENSAR - misliti, think
 penso, pensas, pensa, pensamos, pensais, pensam
 
-Ending: -er
+Ending: -ER
 VALER: worth 
 valho, vales, vale, valemos, valeis, valem
 
-Ending: -ir
+Ending: - IR
 SENTIR - feel, sense
 sinto, sentes, sente, sentimos, sentis, sentem
+
+LER: read 
+leio, lês, lê, lemos, ledes, leem
 
 VER - videti, vedere
 vejo, vês, vê, vemos, vedes, vêem

@@ -24,4 +24,8 @@ Colher - spoon
 Com licença - excuse me
 Copo - glass
 Cor - color
+quarto andar - četrto nadstropje
+jaqueta - jacket
+
+
 
