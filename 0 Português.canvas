@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"996c5b2371033a9f","type":"file","file":"Brasil flag.jpg","x":-220,"y":-560,"width":190,"height":133},
-		{"id":"f64dd9bdd5ff2759","type":"file","file":"Easy verbs.md","x":220,"y":-80,"width":340,"height":320},
-		{"id":"42aa99f8a72ab4aa","type":"file","file":"Perguntas.md","x":580,"y":-300,"width":250,"height":180},
-		{"id":"d889bf06e26fa203","type":"file","file":"Preposições, contrações.md","x":580,"y":-80,"width":250,"height":640},
-		{"id":"dbaff2896632d721","type":"file","file":"Words.md","x":220,"y":280,"width":340,"height":180},
 		{"id":"28eccf113d06ec90","type":"file","file":"Conjugation.md","x":-220,"y":-300,"width":380,"height":420},
-		{"id":"daa0c92a4003c94f","type":"file","file":"Hard words.md","x":220,"y":-427,"width":340,"height":307},
 		{"id":"f8dae8c365df3bcf","type":"file","file":"Phrases.md","x":-220,"y":180,"width":380,"height":280},
-		{"id":"f5358d4d14874413","type":"file","file":"Partes do corpo.md","x":-680,"y":-300,"width":400,"height":400},
-		{"id":"cacd99ad103d28be","x":-680,"y":160,"width":400,"height":400,"type":"file","file":"Cor, Cores.md"},
-		{"id":"5035c15e6e738375","x":-680,"y":600,"width":400,"height":400,"type":"file","file":"Direção.md"}
+		{"id":"996c5b2371033a9f","type":"file","file":"Brasil flag.jpg","x":-125,"y":-493,"width":190,"height":133},
+		{"id":"f5358d4d14874413","type":"file","file":"Partes do corpo.md","x":-680,"y":-500,"width":400,"height":400},
+		{"id":"daa0c92a4003c94f","type":"file","file":"Hard words.md","x":220,"y":-493,"width":340,"height":307},
+		{"id":"42aa99f8a72ab4aa","type":"file","file":"Perguntas.md","x":580,"y":-493,"width":250,"height":180},
+		{"id":"cacd99ad103d28be","type":"file","file":"Cor, Cores.md","x":-680,"y":-30,"width":400,"height":400},
+		{"id":"5035c15e6e738375","type":"file","file":"Direção.md","x":-1120,"y":-500,"width":400,"height":400},
+		{"id":"d889bf06e26fa203","type":"file","file":"Preposições, contrações.md","x":580,"y":-270,"width":250,"height":640},
+		{"id":"f64dd9bdd5ff2759","type":"file","file":"Easy verbs.md","x":220,"y":-140,"width":340,"height":320},
+		{"id":"dbaff2896632d721","type":"file","file":"Words.md","x":220,"y":230,"width":340,"height":180}
 	],
 	"edges":[]
 }

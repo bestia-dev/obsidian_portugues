@@ -16,32 +16,17 @@
               "state": {
                 "file": "0 Português.canvas",
                 "viewState": {
-                  "x": 75,
-                  "y": 220,
-                  "zoom": -1.692265786695392
+                  "x": -145,
+                  "y": -20,
+                  "zoom": -1.5550092786195282
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "0 Português"
             }
-          },
-          {
-            "id": "185ddaae0c42d32d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Partes do corpo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Partes do corpo"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36e8a2bfc1b31c37",
@@ -165,9 +151,29 @@
               "icon": "lucide-list",
               "title": "Outline of 0 Português"
             }
+          },
+          {
+            "id": "0873a8af9575f377",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "feed0ca4f51e9b0b",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -185,16 +191,16 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f61a439ce67cca9a",
+  "active": "a6009c5741446e22",
   "lastOpenFiles": [
-    "Cor, Cores.md",
     "0 Português.canvas",
+    "Partes do corpo.md",
+    "Cor, Cores.md",
     "Perguntas.md",
     "Hard words.md",
     "Words.md",
     "Direção.md",
     "Phrases.md",
-    "Partes do corpo.md",
     "Easy verbs.md",
     "Win11 keyboard and diacritics.md",
     "MSKLC keyboard layout/LucKey/LucKey_i386.msi",

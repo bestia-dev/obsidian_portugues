@@ -6,5 +6,23 @@
       ],
       "key": "J"
     }
+  ],
+  "terminal:open-terminal.external.root": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-9ruj5i5tfy": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
   ]
 }
