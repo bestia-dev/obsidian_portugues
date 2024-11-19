@@ -5,3 +5,4 @@ o ombro, o braço, o cotovelo, a mão, o dedo - shoulder, arm, elbow, hand, fing
 a cabeça, o olho, o nariz, a orelha, a boca, o dente - glava, oko, nos, uho, usta, zob
 
 
+
