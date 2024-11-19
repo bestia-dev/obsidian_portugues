@@ -3,6 +3,7 @@ Excelente! Agora vamos!
 Boa tarde, como vai você?
 
 Eu ando para casa.
+Sinto muito, vovó! - I'm sorry, grandma. 
 
 Está bem! Você pode pegar minha carteira no meu quarto?
 Vamos na loja de videogame?

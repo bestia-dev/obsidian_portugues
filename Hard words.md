@@ -1,3 +1,5 @@
+ou - or
+avó, vovó - grandmother
 achar - think, find
 esquecer - forget
 medir - measure

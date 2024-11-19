@@ -16,9 +16,9 @@
               "state": {
                 "file": "0 Português.canvas",
                 "viewState": {
-                  "x": 305,
-                  "y": 100.12836190955035,
-                  "zoom": -1.2142184898907478
+                  "x": 75,
+                  "y": 220,
+                  "zoom": -1.692265786695392
                 }
               },
               "pinned": true,
@@ -27,19 +27,17 @@
             }
           },
           {
-            "id": "de2120072bfc7360",
+            "id": "185ddaae0c42d32d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrases.md",
+                "file": "Partes do corpo.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Phrases"
+              "title": "Partes do corpo"
             }
           }
         ],
@@ -74,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conv",
+                "query": "ches",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,89 +165,9 @@
               "icon": "lucide-list",
               "title": "Outline of 0 Português"
             }
-          },
-          {
-            "id": "1cad36fd645d12b0",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "2f0fdbf93c85a9ed",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "a741ca9c81df27eb",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "65192b112af2030f",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "5dc1f38ff081ca5b",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "0961b5574f2be67a",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "cc20760094128975",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "ea02fa5f918d1f53",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -269,31 +187,34 @@
   },
   "active": "f61a439ce67cca9a",
   "lastOpenFiles": [
-    "conjugation.md",
-    "Phrases.md",
+    "Cor, Cores.md",
     "0 Português.canvas",
-    "Hard words.md",
-    "Win11 keyboard and diacritics.md",
-    "MSKLC keyboard layout/LucKey/wow64/Layout01.dll",
-    "MSKLC keyboard layout/LucKey/ia64/Layout01.dll",
-    "MSKLC keyboard layout/LucKey/i386/Layout01.dll",
-    "MSKLC keyboard layout/LucKey/amd64/Layout01.dll",
-    "MSKLC keyboard layout/LucKey/Layout01_amd64.msi",
-    "MSKLC keyboard layout/LucKey/setup.exe",
-    "MSKLC keyboard layout/LucKey/wow64",
-    "MSKLC keyboard layout/LucKey/Layout01_ia64.msi",
-    "MSKLC keyboard layout/LucKey/Layout01_i386.msi",
-    "MSKLC keyboard layout/LucKey/ia64",
-    "Numbers.md",
-    "Easy verbs.md",
-    "Preposições, contrações.md",
-    "Untitled.canvas",
     "Perguntas.md",
+    "Hard words.md",
     "Words.md",
+    "Direção.md",
+    "Phrases.md",
+    "Partes do corpo.md",
+    "Easy verbs.md",
+    "Win11 keyboard and diacritics.md",
+    "MSKLC keyboard layout/LucKey/LucKey_i386.msi",
+    "MSKLC keyboard layout/LucKey/LucKey_amd64.msi",
+    "MSKLC keyboard layout/LucKey/LucKey_ia64.msi",
+    "MSKLC keyboard layout/LucKey/setup.exe",
+    "MSKLC keyboard layout/LucKey/wow64/LucKey.dll",
+    "MSKLC keyboard layout/LucKey/wow64",
+    "MSKLC keyboard layout/LucKey/ia64/LucKey.dll",
+    "MSKLC keyboard layout/LucKey/ia64",
+    "MSKLC keyboard layout/LucKey/i386/LucKey.dll",
+    "MSKLC keyboard layout/LucKey/i386",
+    "Prices, shopping.md",
     "README.md",
-    "prices, shopping.md",
+    "Untitled.canvas",
+    "Conjugation.md",
+    "Numbers.md",
+    "Preposições, contrações.md",
     "Ordinal numbers.md",
-    "brasil flag.jpg",
+    "Brasil flag.jpg",
     "2024-11-15.md"
   ]
 }

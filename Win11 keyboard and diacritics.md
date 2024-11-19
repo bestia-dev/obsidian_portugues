@@ -16,3 +16,4 @@ I will use MSKLC to customize the keyboard "Slovenian - Custom LucKey".
 
 altgr + 3 prepares for ê
 altgr + 1 prepares for ã, õ
+
