@@ -78,13 +78,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36e8a2bfc1b31c37",
@@ -191,7 +189,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "a6009c5741446e22",
+  "active": "ccb8c105bc49b7f8",
   "lastOpenFiles": [
     "0 Português.canvas",
     "Partes do corpo.md",

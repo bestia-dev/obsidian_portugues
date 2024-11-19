@@ -26,7 +26,7 @@
     {
       "id": "9ruj5i5tfy",
       "platform_specific_commands": {
-        "default": "start \"\" \"%PROGRAMFILES%\\Git\\bin\\sh.exe\""
+        "default": "start \"\" \"C:\\Program Files\\WezTerm\\wezterm-gui.exe\" start --cwd {{vault_path}} -- \"C:\\\\Program Files\\\\Git\\\\bin\\\\bash.exe\" -l"
       },
       "shells": {},
       "alias": "git-bash",
