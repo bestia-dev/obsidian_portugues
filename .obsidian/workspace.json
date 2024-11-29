@@ -25,8 +25,37 @@
               "icon": "lucide-layout-dashboard",
               "title": "0 Português"
             }
+          },
+          {
+            "id": "096fb29dfdb4bbd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phrases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrases"
+            }
+          },
+          {
+            "id": "b3c3794e2726ba47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filmes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filmes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ches",
+                "query": "emb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,11 +218,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "a6009c5741446e22",
+  "active": "b3c3794e2726ba47",
   "lastOpenFiles": [
-    "Conjugação presente.md",
     "0 Português.canvas",
+    "Phrases.md",
+    "Filmes.md",
     "Easy conversation.md",
+    "Família.md",
+    "Conjugação presente.md",
     "Preposições, contrações.md",
     "Partes do corpo.md",
     "Cor, Cores.md",
@@ -201,7 +233,6 @@
     "Hard words.md",
     "Words.md",
     "Direção.md",
-    "Phrases.md",
     "Easy verbs.md",
     "Win11 keyboard and diacritics.md",
     "MSKLC keyboard layout/LucKey/LucKey_i386.msi",
