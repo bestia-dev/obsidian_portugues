@@ -38,4 +38,23 @@ chata - boring
 perigoso - dangerous
 ir embora - go out, go away
 
-
+O que vai acontecer? - What is going to happen?
+Quem vai pagar? - Who is going to pay?
+Onde nós vamos amanhã? - Where are we going tomorrow?
+Amanhã vamos para a casa da minha irmã. - 
+Minha aula de arte começa em cinco minutos.
+Eu estou entediado. - I am bored.
+Você não tem uma aula agora?
+Eu posso ajudar você?
+Você quer me ajudar?
+Já sei!
+Senta na cadeira e coloca o seu chapéu!
+Está bem.
+O que você vai beber?
+Elas vão adorar a comida!
+Eles vão conversar.
+Onde fica o banheiro?
+Obrigado por pagar o meu almoço.
+Você precisa das chaves?
+A tua gata come peixe.
+Tem gosto de morango. - It taste like strawberries.

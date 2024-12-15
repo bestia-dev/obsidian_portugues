@@ -1,11 +1,12 @@
 aceitar - accept
-ajudar - help
+ajudar - help, "ajudar o Pedro"
 amar - love
 andar - go
 beber - drink
 cair - fall
 caminhar - walk
-chegar - arrive
+chamar - call, "chamar o cachorro"
+chegar - arrive, "chegar em Paris"
 colocar - stand, put on clothes
 comer - eat
 conhecer - know
@@ -23,7 +24,7 @@ escrever - write
 esperar - wait
 fazer - make
 ganhar - win, earn
-gostar - like
+gostar de - like
 jogar - play
 lavar - wash
 ler - read

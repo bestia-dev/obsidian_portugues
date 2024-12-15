@@ -5,7 +5,7 @@ eu, tu, ele/ela/você, nós, vós, eles/elas/vocês
 Regular verb ending: -AR
 PENSAR - misliti, think
 penso, pensas, pensa, pensamos, pensais, pensam
-falar, amar, gostar, viajar, trabalhar, estudar, ficar, andar, precisar, conversar, comprar, procurar, olhar
+falar, amar, "gostar de", viajar, trabalhar, estudar, ficar, andar, "precisar de", conversar, comprar, procurar, olhar
 
 Regular verb ending: -ER
 VALER: worth 
