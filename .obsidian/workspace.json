@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hard words.md",
+                "file": "Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hard words"
+              "title": "Words"
             }
           },
           {
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "espel",
+                "query": "então",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,22 +233,22 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ccb8c105bc49b7f8",
+  "active": "096fb29dfdb4bbd6",
   "lastOpenFiles": [
-    "0 Português.canvas",
-    "Phrases.md",
-    "Conjugação presente.md",
-    "Easy verbs.md",
     "Hard words.md",
+    "Direção.md",
+    "Phrases.md",
+    "Words.md",
+    "Easy verbs.md",
     "Filmes.md",
+    "Perguntas.md",
+    "0 Português.canvas",
+    "Conjugação presente.md",
     "Easy conversation.md",
     "Família.md",
     "Preposições, contrações.md",
     "Partes do corpo.md",
     "Cor, Cores.md",
-    "Perguntas.md",
-    "Words.md",
-    "Direção.md",
     "Win11 keyboard and diacritics.md",
     "MSKLC keyboard layout/LucKey/LucKey_i386.msi",
     "MSKLC keyboard layout/LucKey/LucKey_amd64.msi",

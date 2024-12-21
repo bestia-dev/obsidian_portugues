@@ -58,3 +58,8 @@ Obrigado por pagar o meu almoço.
 Você precisa das chaves?
 A tua gata come peixe.
 Tem gosto de morango. - It taste like strawberries.
+há - there is
+aqui, ali, lá, aí - here there
+do lado da - next to the
+Ela anda por aí. - She walks around.
+toda as manhãs - every morning

@@ -65,7 +65,7 @@ o aparelho - device
 os veículos - vehicles
 espelho - mirror
 o automóvel, os automóveis - automobile
-a roda - the wheel
+a roda - the wheel,  spin, run, go around
 a tela - screen
 o envelope - envelope
 o diário - the diary
@@ -74,5 +74,9 @@ a escova de dente - toolbrush
 a bandeira - flag
 a coluna - column
 o pente - the comb - glavnik?
-
-
+escova - brush
+diário - journal, diary
+pente - comb, hairbrush
+arma - gun
+já - already
+então... - so...

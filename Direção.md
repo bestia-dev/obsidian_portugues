@@ -4,7 +4,7 @@ acima - above
 embaixo - under
 
 vai reto - go straight
-depois - after
+depois de - after
 
 topo - top
 fundo - bottom
@@ -16,6 +16,8 @@ baixo - down
 frente - front
 atrás - back, behind, after
 lado - side
+
+ir embora - go out, go away
 
 leste - east
 oeste - west

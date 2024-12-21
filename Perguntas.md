@@ -5,3 +5,5 @@ Cadê - where is
 Onde - where
 como - how
 qual - which
+por quê - why
+

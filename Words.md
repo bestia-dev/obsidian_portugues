@@ -1,3 +1,6 @@
 leão - lion
-cima - on top
+em cima - on top
+sempre - always
+reunião - meeting
+
 
