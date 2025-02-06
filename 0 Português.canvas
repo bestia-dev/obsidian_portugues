@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"377b20ade1dcafd3","x":220,"y":490,"width":340,"height":430,"type":"file","file":"Conjugação pretérito perfeito.md"},
 		{"id":"6fc13e79305a8f45","type":"file","file":"Filmes.md","x":-656,"y":462,"width":400,"height":400},
 		{"id":"28eccf113d06ec90","type":"file","file":"Conjugação presente.md","x":-220,"y":-300,"width":380,"height":420},
 		{"id":"f8dae8c365df3bcf","type":"file","file":"Phrases.md","x":-220,"y":180,"width":380,"height":280},
@@ -14,7 +15,7 @@
 		{"id":"dbaff2896632d721","type":"file","file":"Words.md","x":220,"y":230,"width":340,"height":180},
 		{"id":"16fb4512c4c7ab92","type":"file","file":"Easy conversation.md","x":-1120,"y":-30,"width":400,"height":400},
 		{"id":"e1b5ab6743ca526b","type":"file","file":"Família.md","x":-1120,"y":460,"width":400,"height":400},
-		{"id":"e9e8ce6c3e4e683f","x":-220,"y":520,"width":380,"height":400,"type":"file","file":"Pronomes demonstrativos.md"}
+		{"id":"e9e8ce6c3e4e683f","type":"file","file":"Pronomes demonstrativos.md","x":-220,"y":520,"width":380,"height":400}
 	],
 	"edges":[]
 }

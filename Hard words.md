@@ -25,7 +25,7 @@ Cinza - gray, ash
 Colher - spoon
 Com licença - excuse me
 Copo - glass
-Cor - color
+a cor, as cores - the color, the colors
 quarto andar - četrto nadstropje
 jaqueta - jacket
 sacada - balcony
@@ -80,3 +80,8 @@ pente - comb, hairbrush
 arma - gun
 já - already
 então... - so...
+o mapa - the map
+o garçom - waiter
+está certo - is right
+adeus - good bye
+espirrar - to sneeze

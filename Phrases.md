@@ -63,3 +63,11 @@ aqui, ali, lá, aí - here there
 do lado da - next to the
 Ela anda por aí. - She walks around.
 toda as manhãs - every morning
+
+Ela pede de joelhos. - She begs on her knees.
+O que você acha deste vestido? - What do you think about this dress?
+
+Eu estou doente - I am sick
+Eu não me sinto bem… - I don't feel well
+Eu acho que não. -  I don't think so.
+Molho ou azeite - Dressing or olive oil?

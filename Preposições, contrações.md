@@ -3,87 +3,33 @@ https://www.practiceportuguese.com/learning-notes/prepositions-in-portuguese/
 Eu vou **para** casa
 Eu espero **por** ti
 
+|     | Singular |         | Plural  |          |
+| --- | -------- | ------- | ------- | -------- |
+|     | masc     | fem     | masc    | fem      |
+|     | o        | a       | os      | as       |
+| EM  | no       | na      | nos     | nas      |
+| DE  | do       | da      | dos     | das      |
+| A   | ao       | à       | aos     | às       |
+| POR | pelo     | pela    | pelos   | pelas    |
+|     | um       | uma     | uns     | umas     |
+| EM  | num      | numa    | nuns    | numas    |
+| DE  | dum      | duma    | duns    | dumas    |
+|     | ele      | ela     | eles    | elas     |
+| EM  | nele     | nela    | neles   | nelas    |
+| DE  | dele     | dela    | deles   | delas    |
+|     | outro    | outra   | outros  | outras   |
+| EM  | noutro   | noutra  | noutros | noutras  |
+| DE  | doutro   | doutra  | doutros | doutras  |
+|     | algum    | alguma  | alguns  | algumas  |
+| EM  | nalgum   | nalguma | nalguns | nalgumas |
+| DE  | dalgum   | dalguma | dalguns | dalgumas |
+
 ## EM - in (eu penso em você, )
 
-em + o = **no**
-em + a = **na**
-em + os = **nos**
-em + as = **nas**
-
-em + um = num
-em + uma = numa
-em + uns = nuns
-em + umas = numas
-
-em + ele = **nele**  
-em + ela = **nela**  
-em + eles = **neles**  
-em + elas = **nelas**
-
-em + este = **neste**  
-em + esta = **nesta**  
-em + estes = **nestes**  
-em + estas = **nestas**  
-em + isto = **nisto**
-
-em + esse = **nesse**  
-em + essa = **nessa**  
-em + esses = **nesses**  
-em + essas = **nessas**  
-em + isso = **nisso**
-
-em + aquele = **naquele**  
-em + aquela = **naquela**  
-em + aqueles = **naqueles**  
-em + aquelas = **naquelas**  
-em + aquilo = **naquilo**
-
-em + outro = **noutro**  
-em + outra = **noutra**  
-em + outros = **noutros**  
-em + outras = **noutras**  
 em + outrem = **noutrem**  
-
-em + algum = **nalgum**  
-em + alguma = **nalguma**  
-em + alguns = **nalguns**  
-em + algumas = **nalgumas**  
 em + alguém = **nalguém**
 
 ## DE (Ir **de** carro, Elas falam **do** tubarão., Eu gosto **de** bacalhau)
-
-de + o = **do**  
-de + a = **da**  
-de + os = **dos**  
-de + as = **das**
-
-de + um = **dum**  
-de + uma = **duma**  
-de + uns = **duns**  
-de + umas = **dumas**
-
-de + ele = **dele**  
-de + ela = **dela**  
-de + eles = **deles**  
-de + elas = **delas**
-
-de + este = **deste**  
-de + esta = **desta**  
-de + estes = **destes**  
-de + estas = **destas**  
-de + isto = **disto**
-
-de + esse = **desse**  
-de + essa = **dessa**  
-de + esses = **desses**  
-de + essas = **dessas**  
-de + isso = **disso**
-
-de + aquele = **daquele**  
-de + aquela = **daquela**  
-de + aqueles = **daqueles**  
-de + aquelas = **daquelas**  
-de + aquilo = **daquilo**
 
 de + aqui = **daqui**  
 de + aí = **daí**  
@@ -92,17 +38,9 @@ de + acolá = **dacolá**
 de + onde = **donde**  
 de + antes = **dantes**
 
-de + outro = **doutro**  
-de + outra = **doutra**  
-de + outros = **doutros**  
-de + outras = **doutras**  
 de + outrem = **doutrem**  
 de + outrora = **doutrora**
 
-de + algum = **dalgum**  
-de + alguma = **dalguma**  
-de + alguns = **dalguns**  
-de + algumas = **dalgumas**  
 de + alguém = **dalguém**  
 de + algo = **dalgo**  
 de + algures = **dalgures**  
@@ -115,29 +53,9 @@ de + além = **dalém**
 de + entre = **dentre**
 
 de + ora + avante = **doravante**
-
 ## A
 
-a + o = **ao**  
-a + a = **à**  
-a + os = **aos**  
-a + as = **às**
-
-a + aquele = **àquele**  
-a + aquela = **àquela**  
-a + aqueles = **àqueles**  
-a + aquelas = **àquelas**  
-a + aquilo = **àquilo**
-
 a + onde = **aonde**
-
-## POR
-
-por + o = pelo
-por + a = pela
-por + os = pelos
-por + as = pelas
-
 ## COM  
   
 com + mim = **comigo**  

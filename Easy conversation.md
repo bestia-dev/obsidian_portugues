@@ -8,7 +8,8 @@ Prazer em conhecê-lo(a).
 O prazer é todo meu.
 Qual é seu nome?
 Meu nome é Luciano.
-Bom dia, Boa tarde, Boa noite, Tchau, Até mais, Até logo, Até amanhã
+Bom dia, Boa tarde, Boa noite, Tchau, 
+Até mais, Até logo, Até amanhã
 Estou com saudades de você. - I miss you.
 Eu tambén.
 O que está fazendo?
@@ -37,9 +38,9 @@ Quero ir no cinema.
 Como foi o seu dia? - Como fue tu dia?
 Meu dia foi bom.
 Meu dia foi ruim.
-Esta delicioso.
+Está delicioso.
 Quero mais. Quero menos.
-É engraçado. - Esta divertido.
+É engraçado. - Está divertido.
 Obrigado pelo almoço.
 Posso ajudá-lo(a)? - Te puedo ayudar?
 Você pode me ajudar?

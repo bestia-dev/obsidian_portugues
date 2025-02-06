@@ -1,4 +1,5 @@
 https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html
+https://www.conjugacao.com.br
 
 eu, tu, ele/ela/você, nós, vós, eles/elas/vocês
 
@@ -16,6 +17,8 @@ Regular verb ending: - IR
 SENTIR - feel, sense
 sinto, sentes, sente, sentimos, sentis, sentem
 abrir, dividir, partir, existir, insistir, produzir, discutir, desistir, decidir, mentir
+
+## irregulares
 
 SER - biti, essere
 sou, és, é, somos, sois, são
