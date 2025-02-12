@@ -4,17 +4,35 @@
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
- 
-## community plugin for ShellCommands
 
-I want to open a terminal wezterm with git-bash on Win11 from Obsidian.  
-Obsidian Shell command hotkey Shift+Ctrl+j  
+## Motivation
+
+Once I was in Brasil, I discovered that my knowledge of Spanish and Italian is not enough.  
+I have to learn some Portugues. It is not that easy, but it is not that hard.  
+I need to write my notes somewhere. I choose Obsidian. It looks nice.  
+Obviously I wanted to use my laptop, table and smartphone.  
+To make all that in sync I will use git and Github repository.
+Git on laptop is a no-brainer.
+On android table and smartphone I use `Termux` and there I installed git. Android is basically a bastard son of Google and Linux.
+
+## Git and GitHub
+
+It is easy to use git and GitHub.
+After initiating the repository and connecting it with the remote repository is just:
 
 ```bash
-start "" "C:\Program Files\WezTerm\wezterm-gui.exe" start --cwd {{vault_path}} -- "C:\\Program Files\\Git\\bin\\bash.exe" -l
+git add .
+git commit -m "message"
+git push
 ```
 
-## Add special characters to the keyboard
+and in the other direction
+
+```bash
+git pull
+```
+
+## Add Portugues characters to the keyboard
 
 In the folder "MSKLC keyboard layout" there is the program to change the windows keyboard layout.  
 The file "LucKey.klc" has the new layout definition.  
