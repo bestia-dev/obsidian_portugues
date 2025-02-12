@@ -1,6 +1,6 @@
 # Obsidian Portugues
 
-**Obsidian notes for my learning of Portugues.**
+***Obsidian notes for my learning of Portugues***
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
