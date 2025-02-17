@@ -4,6 +4,7 @@
 
  ![maintained](https://img.shields.io/badge/maintained-green)
  ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Motivation
 
