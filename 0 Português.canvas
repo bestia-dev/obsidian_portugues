@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"377b20ade1dcafd3","x":220,"y":490,"width":340,"height":430,"type":"file","file":"Conjugação pretérito perfeito.md"},
+		{"id":"377b20ade1dcafd3","type":"file","file":"Conjugação pretérito perfeito.md","x":220,"y":490,"width":340,"height":430},
 		{"id":"6fc13e79305a8f45","type":"file","file":"Filmes.md","x":-656,"y":462,"width":400,"height":400},
 		{"id":"28eccf113d06ec90","type":"file","file":"Conjugação presente.md","x":-220,"y":-300,"width":380,"height":420},
 		{"id":"f8dae8c365df3bcf","type":"file","file":"Phrases.md","x":-220,"y":180,"width":380,"height":280},

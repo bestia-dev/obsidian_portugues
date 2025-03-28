@@ -11,7 +11,7 @@ Meu nome é Luciano.
 Bom dia, Boa tarde, Boa noite, Tchau, 
 Até mais, Até logo, Até amanhã
 Estou com saudades de você. - I miss you.
-Eu tambén.
+Eu também.
 O que está fazendo?
 Nada.
 Você está ocupado? 

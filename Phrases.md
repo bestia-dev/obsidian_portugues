@@ -71,3 +71,14 @@ Eu estou doente - I am sick
 Eu não me sinto bem… - I don't feel well
 Eu acho que não. -  I don't think so.
 Molho ou azeite - Dressing or olive oil?
+
+É mesmo? - Really?
+Tarde demais - Too late
+Além disso - Furthermore (nadalje)
+E depois? - And then?
+Ele bebe devagar. - He drinks slowly.
+O que vem depois? - What comes afterwards.
+De novo - again
+Só um minuto - Just a minute
+Até recentemente - Until recently
+

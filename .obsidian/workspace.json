@@ -17,13 +17,43 @@
                 "file": "0 Português.canvas",
                 "viewState": {
                   "x": -145,
-                  "y": 599.013454621698,
+                  "y": 210,
                   "zoom": -1.556610687337826
                 }
               },
               "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "0 Português"
+            }
+          },
+          {
+            "id": "2ec20df58f39adc0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phrases.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Phrases"
+            }
+          },
+          {
+            "id": "cc5c3f41cd5cde13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phrases.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phrases"
             }
           },
           {
@@ -71,21 +101,9 @@
               "icon": "lucide-file",
               "title": "Time"
             }
-          },
-          {
-            "id": "78b7a8211594e511",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time",
+                "query": "cedo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,17 +268,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f61a439ce67cca9a",
+  "active": "cc5c3f41cd5cde13",
   "lastOpenFiles": [
     "Words.md",
-    "Time.md",
-    "Ordinal numbers.md",
-    "Conjugação pretérito perfeito.md",
-    "Pronomes demonstrativos.md",
-    "Easy conversation.md",
-    "Conjugação presente.md",
-    "0 Português.canvas",
     "Phrases.md",
+    "0 Português.canvas",
+    "Conjugação pretérito perfeito.md",
+    "Time.md",
+    "Easy conversation.md",
+    "Ordinal numbers.md",
+    "Pronomes demonstrativos.md",
+    "Conjugação presente.md",
     "Hard words.md",
     "Preposições, contrações.md",
     "Direção.md",

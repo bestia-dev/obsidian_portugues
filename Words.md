@@ -63,9 +63,8 @@ etapa - phase, stage
 instante - moment
 período - time period
 época - season, time
-
-
-
-
-
-
+também - also
+provavelmente - probably
+através - through
+cedo - early
+antes - before
