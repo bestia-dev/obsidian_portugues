@@ -6,7 +6,7 @@ eu, tu, ele/ela/você, nós, vós, eles/elas/vocês
 Regular verb ending: -AR
 PENSAR - misliti, think
 penso, pensas, pensa, pensamos, pensais, pensam
-falar, amar, "gostar de", viajar, trabalhar, estudar, ficar, andar, "precisar de", conversar, comprar, procurar, olhar
+falar, amar, "gostar de", viajar, trabalhar, estudar, ficar, andar, "precisar de", conversar, comprar, procurar, olhar, chegar
 
 Regular verb ending: -ER
 VALER: worth 
@@ -36,7 +36,7 @@ VER - videti, vedere
 vejo, vês, vê, vemos, vedes, vêem
 
 VIR - priti, venire
-venho, vens, vem, vimos, vindes, vêm
+***venho***, vens, ***vem***, vimos, vindes, ***vêm***
 
 IR - iti, andate
 vou, vais, vai, vamos/imos, ides, vão
@@ -61,3 +61,6 @@ digo, dizes, diz, dizemos, dizeis, dizem
 
 QUERER - want
 quero, queres, quer, queremos, quereis, querem
+
+SAIR - leave
+***saio***, sais, sai, ***saímos***, saís, ***saem***

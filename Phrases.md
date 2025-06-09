@@ -81,4 +81,9 @@ O que vem depois? - What comes afterwards.
 De novo - again
 Só um minuto - Just a minute
 Até recentemente - Until recently
+Você pode me ajudar? -  Can you help me?
+às três em ponto - three o'clock sharp
+garrafa d'água - water bottle
+que azar - what bad luck
+Ele está com sono? - Is he sleepy?
 

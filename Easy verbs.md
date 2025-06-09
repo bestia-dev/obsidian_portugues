@@ -6,7 +6,7 @@ beber - drink
 cair - fall
 caminhar - walk
 chamar - call, "chamar o cachorro"
-chegar - arrive, "chegar em Paris"
+chegar - get there, arrive, "chegar em Paris"
 colocar - stand, put on clothes
 comer - eat
 conhecer - know

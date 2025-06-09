@@ -4,7 +4,7 @@ sempre - always
 reunião - meeting
 advogado - lawyer
 porta-voz - spokesman
-empresário - businessman
+empresário, empresa - businessman, company
 professora - teacher
 alunos - students
 o capitão - the captain
@@ -26,8 +26,7 @@ sujo - dirty
 agente - the agent
 engenheiro - engineer
 doente - sick
-sorvete - ice cream
-sorveteria - ice cream shop
+sorvete, sorveteria - ice cream, ice cream shop
 zoológico - zoo
 fazendeiro - farmer
 carteiro - mailman
@@ -68,3 +67,39 @@ provavelmente - probably
 através - through
 cedo - early
 antes - before
+cartão de crédito - credit card
+moeda - coins
+provador - fitting room
+um marrom, uns marrons - brown
+melhor - better, best, greatest
+brinco - earing
+desconfortável - uncomfortable
+lenço - scarf, handkerchief
+certo, right, OK, certain
+shorts - shorts
+roupa íntima - underwear
+pijama - pajama
+sandália - sandal
+chega de - enough
+péssimo - terrible
+desastre - disaster
+fofoca - gossip
+brigadeiro - chocolate truffle
+champanhe - champagne
+que emocão - What emotion
+com medo - afraid, scared
+todo o mundo - everybody
+câmera - camera
+torta - pie
+alergia a - allergy to
+odeia - hate, hates
+em vez de - instead
+marca - brand, print
+necessário - necessary, needed
+milhho - corn, maize
+típico - typical, average
+chá-mate - mate tea
+camarão - shrimp
+ótimo - great
+babá - nanny
+ator, atriz - actor, actress

@@ -40,7 +40,7 @@ ferramenta - tool
 berço - cradle, birthplace
 o chuveiro - the shower
 desligar - to turn off
-chão - floor
+chão - floor, ground
 tapete - rug
 sabão - soap
 xampu - shampoo
